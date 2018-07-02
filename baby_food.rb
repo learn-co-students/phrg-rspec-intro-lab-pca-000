@@ -19,7 +19,7 @@ class BabyFood
     end
 
     if texture != "soft"
-      puts "Whhhaaaa WAAAAHHHHH!"
+      puts "Whhhaaaa WAAAAHHHHH!!"
       return
     end
 
